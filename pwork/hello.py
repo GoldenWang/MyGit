@@ -1,0 +1,7 @@
+print('hello world','I Miss LY','我们是谁啊')
+print(300)
+print(100+300)
+print('100+300=',100+300)
+name=input('please enter your name:')
+print('hello',name)
+print('1024*768=',1024*768)
